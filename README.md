@@ -1,6 +1,6 @@
 # flutter_mdns_plugin
 
-A simple plugin for discovering mdns services in Flutter on Android and iOS. The example project is set to discover Chromecasts only, but you can set any mdns service by changing the `discovery_service` string in `device_scanner.dart`.
+A simple plugin for discovering mdns services in Flutter on Android and iOS. The example project is set to discover Services on HTTP only, but you can set any mdns service by changing the `discovery_service` string in `device_scanner.dart`.
 
 **iOS installation**
 Make sure you add the Foundation framework to your iOS project in xcode.
