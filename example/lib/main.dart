@@ -5,7 +5,7 @@ import 'package:flutter_mdns_plugin/flutter_mdns_plugin.dart';
 
 void main() => runApp(new MyApp());
 
-const String discovery_service = "_climateorb._tcp";
+const String discovery_service = "_http._tcp";
 
 class MyApp extends StatefulWidget {
   @override
